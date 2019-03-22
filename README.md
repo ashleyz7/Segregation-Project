@@ -1,4 +1,4 @@
-Segregation Metrics Project
+# Segregation Metrics Project
 
 All data is available in the [data](data/) folder. 
 
